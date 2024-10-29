@@ -14,6 +14,19 @@ I have spent a sizeable amount of my time on Reddit, and here is how to find as 
 
 - https://search.pullpush.io/ + {thread slug} - See deleted/removed comments of a thread or see a deleted/removed thread.
 
+## Phone Number
+
+This part is mostly written based on indian numbers.
+
+- https://truecaller.com - The OG resource for getting info about phone numbers. Heavily paywalled and auth-walled recently.
+
+### Truecaller Telegram Bots
+
+Works great and a livesaver to get information about mobile numbers.
+
+- https://t.me/TrueCaller_Z_Bot
+- https://t.me/TruecallerR0Bot
+
 
 
 
