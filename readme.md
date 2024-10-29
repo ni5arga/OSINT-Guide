@@ -12,7 +12,7 @@ I have spent a sizeable amount of my time on Reddit, and here is how to find as 
 
 - https://search.pullpush.io/ - Same like arctic shift. But a different service.
 
-- https://search.pullpush.io/ + {thread slug} - See deleted/removed comments of a thread or see a deleted/removed thread.
+- https://undelete.pullpush.io/ + {thread slug} - See deleted/removed comments of a thread or see a deleted/removed thread.
 
 ## Phone Number
 
