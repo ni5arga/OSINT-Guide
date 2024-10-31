@@ -1,6 +1,6 @@
 # OSINT Guide
 
-A repository which contains my notes on OSINT and some resources I have used. 
+A repository which contains OSINT tools and some methods/tricks.
 
 ## Reddit 
 
@@ -18,16 +18,19 @@ I have spent a sizeable amount of my time on Reddit, and here is how to find as 
 
 This part is mostly written based on indian numbers.
 
-- https://truecaller.com - The OG resource for getting info about phone numbers. Heavily paywalled and auth-walled recently.
+- https://truecaller.com - The OG resource for getting info about phone numbers. Heavily auth-walled recently (sometimes paywalled too).
 
 ### Truecaller Telegram Bots
 
-Works great and a livesaver to get information about mobile numbers.
+No auth required.
 
 - https://t.me/TrueCaller_Z_Bot
 - https://t.me/TruecallerR0Bot
 
 
-
+## Instagram
+- https://github.com/bellingcat/instagram-location-search - Finds Instagram location IDs near a specified latitude and longitude.
+- https://instaloader.github.io/ - tool to download pictures (or videos) along with their captions and other metadata from Instagram.
+- https://github.com/Datalux/Osintgram - collect data from private/public Instagram profiles.
 
 Disclaimer: I am not responsible if you use any of these methodologies to break laws. Everything in this repo is meant for educational purposes only.
