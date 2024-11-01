@@ -33,4 +33,9 @@ No auth required.
 - https://instaloader.github.io/ - tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 - https://github.com/Datalux/Osintgram - collect data from private/public Instagram profiles.
 
+# Tools
+
+- https://whatsmyname.app/
+- https://github.com/sherlock-project/sherlock
+
 Disclaimer: I am not responsible if you use any of these methodologies to break laws. Everything in this repo is meant for educational purposes only.
