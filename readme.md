@@ -41,5 +41,6 @@ No auth required.
 # Lists
 
 - https://bellingcat.gitbook.io/toolkit
+- https://old.reddit.com/r/osint/wiki/
 
 Disclaimer: I am not responsible if you use any of these methodologies to break laws. Everything in this repo is meant for educational purposes only.
