@@ -45,10 +45,20 @@ No authentication required:
 
 ---
 
-## **Tools**
+## **Misc OSINT Tools**
 
-- [What's My Name](https://whatsmyname.app/)
+- [whatsmyname](https://whatsmyname.app/) - Whatsmyname.app is an OSINT tool designed for enumerating usernames across a wide array of websites. 
 - [Sherlock](https://github.com/sherlock-project/sherlock) - A tool to find usernames across multiple social networks.
+- [Maltego](https://www.maltego.com/) - Visual link analysis for OSINT investigations.
+
+### **Password and Data Breaches**
+- [Dehashed](https://dehashed.com/) - Search for compromised credentials and data breaches.
+- [BreachDirectory](https://breachdirectory.org/) - Quickly find if an email/password is part of a breach.
+
+### **Other Tools**
+- [GHunt](https://github.com/mxrch/GHunt) - Investigate Google accounts.
+- [URLScan](https://urlscan.io/) - Analyze websites and identify associated resources.
+- [Shodan](https://www.shodan.io/) - Search for exposed devices on the internet.
 
 ---
 
