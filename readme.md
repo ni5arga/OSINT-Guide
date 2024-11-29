@@ -1,6 +1,3 @@
-Here’s the properly formatted version of your OSINT guide:
-
----
 
 # OSINT Guide
 
