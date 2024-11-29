@@ -56,6 +56,7 @@ Tools to analyze and extract data from images and videos:
 
 - [ExifTool](https://exiftool.org/) - Extract metadata from images and videos.
 - [FotoForensics](https://fotoforensics.com/) - Analyze image metadata and detect tampering.
+- [Online EXIF Viewer](https://exif.tools/)
 
 ---
 
