@@ -27,13 +27,17 @@ Reddit activity can reveal a lot about a person. Here's how to analyze it effect
 
 This section is mostly focused on Indian phone numbers but can be applicable elsewhere.
 
-- [Truecaller](https://truecaller.com) - The go-to resource for identifying phone numbers. Recently, it has become heavily authentication-walled and sometimes paywalled.
+- [Truecaller](https://truecaller.com) - The go-to resource for identifying phone numbers. Recently, it has become heavily auth-walled and sometimes paywalled.
 
 ### **Truecaller Telegram Bots**
 
-No authentication required:
+No Paywall:
 - [TrueCaller_Z_Bot](https://t.me/TrueCaller_Z_Bot)
 - [TruecallerR0Bot](https://t.me/TruecallerR0Bot)
+
+### **Global Phone Lookup Tools**
+- [NumLookup](https://www.numlookup.com/) - Identify phone number ownership globally.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced phone number intelligence tool.
 
 ---
 
