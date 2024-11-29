@@ -50,6 +50,17 @@ No Paywall:
 
 ---
 
+## **Email OSINT**
+
+Find out more about email addresses, ownership, and their involvement in data breaches:
+
+- [Hunter.io](https://hunter.io/) - Find email addresses from websites.
+- [EmailRep.io](https://emailrep.io/) - Investigate email address reputation and risk.
+- [Have I Been Pwned?](https://haveibeenpwned.com/) - Check if an email address has been exposed in a data breach.
+
+---
+
+---
 ## **Misc OSINT Tools**
 
 - [whatsmyname](https://whatsmyname.app/) - Whatsmyname.app is an OSINT tool designed for enumerating usernames across a wide array of websites. 
