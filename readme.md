@@ -50,6 +50,15 @@ No Paywall:
 
 ---
 
+## **Image and Video Analysis**
+
+Tools to analyze and extract data from images and videos:
+
+- [ExifTool](https://exiftool.org/) - Extract metadata from images and videos.
+- [FotoForensics](https://fotoforensics.com/) - Analyze image metadata and detect tampering.
+
+---
+
 ## **Email OSINT**
 
 Find out more about email addresses, ownership, and their involvement in data breaches:
