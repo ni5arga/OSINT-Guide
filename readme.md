@@ -69,11 +69,15 @@ Find out more about email addresses, ownership, and their involvement in data br
 - [Have I Been Pwned?](https://haveibeenpwned.com/) - Check if an email address has been exposed in a data breach.
 
 ---
+
+
+
 ## **Misc OSINT Tools**
 
 - [whatsmyname](https://whatsmyname.app/) - Whatsmyname.app is an OSINT tool designed for enumerating usernames across a wide array of websites. 
 - [Sherlock](https://github.com/sherlock-project/sherlock) - A tool to find usernames across multiple social networks.
 - [Maltego](https://www.maltego.com/) - Visual link analysis for OSINT investigations.
+- [Vechicle Information from License Plate Number](https://www.carinfo.app/rto-vehicle-registration-detail)
 
 ### **Password and Data Breaches**
 - [Dehashed](https://dehashed.com/) - Search for compromised credentials and data breaches.
