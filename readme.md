@@ -1,19 +1,26 @@
 # OSINT Guide
 
-A repository which contains OSINT tools and some methods/tricks.
+This repository is a collection of OSINT (Open Source Intelligence) tools, techniques, and tricks designed to help uncover publicly available information.
 
-## Reddit 
+## Reddit OSINT
 
-I have spent a sizeable amount of my time on Reddit, and here is how to find as much as information about someone from their reddit activity.
+Reddit activity can reveal a lot about a person. Here's how to analyze it effectively:
+
+### User Profile Analysis
 
 - https://redditmetis.com/ - Reddit user profile analysis tool, only fetches last 1000 submissions/comments (publicly visible) and gives that info. Can be used to get basic information about someone.
+- https://reddit-user-analyser.netlify.app/ - Another Reddit profile analysis tool.
+
+### View Deleted/Removed Content or Download Content
 
 - https://arctic-shift.photon-reddit.com/ - View deleted/removed posts/comments of an user, very useful to know what they have deleted which might uncover more information about them.
 
 - https://search.pullpush.io/ - Same like arctic shift. But a different service.
 
-- https://undelete.pullpush.io/ + {thread slug} - See deleted/removed comments of a thread or see a deleted/removed thread.
-
+- https://undelete.pullpush.io/ + `r/subreddit` + `/postID/` - See deleted/removed comments of a thread or see a deleted/removed thread.
+  
+- https://arctic-shift.photon-reddit.com/download-tool - Download posts and comments from a subreddit or user.
+  
 ## Phone Number
 
 This part is mostly written based on indian numbers.
