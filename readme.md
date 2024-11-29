@@ -1,54 +1,67 @@
+Here’s the properly formatted version of your OSINT guide:
+
+---
+
 # OSINT Guide
 
 This repository is a collection of OSINT (Open Source Intelligence) tools, techniques, and tricks designed to help uncover publicly available information.
 
-## Reddit OSINT
+---
+
+## **Reddit OSINT**
 
 Reddit activity can reveal a lot about a person. Here's how to analyze it effectively:
 
-### User Profile Analysis
+### **User Profile Analysis**
 
-- https://redditmetis.com/ - Reddit user profile analysis tool, only fetches last 1000 submissions/comments (publicly visible) and gives that info. Can be used to get basic information about someone.
-- https://reddit-user-analyser.netlify.app/ - Another Reddit profile analysis tool.
+- [RedditMetis](https://redditmetis.com/) - Reddit user profile analysis tool that fetches the last 1000 publicly visible submissions/comments to gather basic information about someone.
+- [Reddit User Analyser](https://reddit-user-analyser.netlify.app/) - Another Reddit profile analysis tool.
 
-### View Deleted/Removed Content or Download Content
+### **View Deleted/Removed Content or Download Content**
 
-- https://arctic-shift.photon-reddit.com/ - View deleted/removed posts/comments of an user, very useful to know what they have deleted which might uncover more information about them.
+- [Arctic Shift](https://arctic-shift.photon-reddit.com/) - View deleted/removed posts/comments of a user, useful for uncovering deleted content that might reveal more information.
+- [PullPush Search](https://search.pullpush.io/) - Similar to Arctic Shift, but a different service offering access to deleted content.
+- [Undelete (PullPush)](https://undelete.pullpush.io) + `/r/subreddit` + `/postID/` - See deleted/removed comments or a deleted/removed thread from a specific subreddit.
+- [Arctic Shift Download Tool](https://arctic-shift.photon-reddit.com/download-tool) - Download posts and comments from a subreddit or user.
 
-- https://search.pullpush.io/ - Same like arctic shift. But a different service.
+---
 
-- https://undelete.pullpush.io/ + `r/subreddit` + `/postID/` - See deleted/removed comments of a thread or see a deleted/removed thread.
-  
-- https://arctic-shift.photon-reddit.com/download-tool - Download posts and comments from a subreddit or user.
-  
-## Phone Number
+## **Phone Number**
 
-This part is mostly written based on indian numbers.
+This section is mostly focused on Indian phone numbers but can be applicable elsewhere.
 
-- https://truecaller.com - The OG resource for getting info about phone numbers. Heavily auth-walled recently (sometimes paywalled too).
+- [Truecaller](https://truecaller.com) - The go-to resource for identifying phone numbers. Recently, it has become heavily authentication-walled and sometimes paywalled.
 
-### Truecaller Telegram Bots
+### **Truecaller Telegram Bots**
 
-No auth required.
+No authentication required:
+- [TrueCaller_Z_Bot](https://t.me/TrueCaller_Z_Bot)
+- [TruecallerR0Bot](https://t.me/TruecallerR0Bot)
+
+---
+
+## **Instagram OSINT**
+
+- [Instagram Location Search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.
+- [Instaloader](https://instaloader.github.io/) - Tool to download pictures (or videos) along with their captions and other metadata from Instagram.
+- [Osintgram](https://github.com/Datalux/Osintgram) - Collect data from private/public Instagram profiles.
+
+---
+
+## **Tools**
+
+- [What's My Name](https://whatsmyname.app/)
+- [Sherlock](https://github.com/sherlock-project/sherlock) - A tool to find usernames across multiple social networks.
+
+---
+
+## **Lists**
+
+- [Bellingcat OSINT Toolkit](https://bellingcat.gitbook.io/toolkit)
+- [r/OSINT Wiki](https://old.reddit.com/r/osint/wiki/)
+
+---
+
+Disclaimer: The tools and techniques provided in this repository are intended for educational and research purposes only. The author does not condone or encourage any illegal or unethical activities. It is the responsibility of the user to ensure compliance with all applicable laws and regulations when utilizing these resources. Misuse of the information in this repository is solely the responsibility of the user.
 
 
-- https://t.me/TrueCaller_Z_Bot
-- https://t.me/TruecallerR0Bot
-
-
-## Instagram
-- https://github.com/bellingcat/instagram-location-search - Finds Instagram location IDs near a specified latitude and longitude.
-- https://instaloader.github.io/ - tool to download pictures (or videos) along with their captions and other metadata from Instagram.
-- https://github.com/Datalux/Osintgram - collect data from private/public Instagram profiles.
-
-# Tools
-
-- https://whatsmyname.app/
-- https://github.com/sherlock-project/sherlock
-
-# Lists
-
-- https://bellingcat.gitbook.io/toolkit
-- https://old.reddit.com/r/osint/wiki/
-
-Disclaimer: I am not responsible if you use any of these methodologies to break laws. Everything in this repo is meant for educational purposes only.
