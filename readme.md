@@ -56,6 +56,7 @@ No authentication required:
 
 - [Bellingcat OSINT Toolkit](https://bellingcat.gitbook.io/toolkit)
 - [r/OSINT Wiki](https://old.reddit.com/r/osint/wiki/)
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) 
 
 ---
 
