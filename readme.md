@@ -59,8 +59,6 @@ Find out more about email addresses, ownership, and their involvement in data br
 - [Have I Been Pwned?](https://haveibeenpwned.com/) - Check if an email address has been exposed in a data breach.
 
 ---
-
----
 ## **Misc OSINT Tools**
 
 - [whatsmyname](https://whatsmyname.app/) - Whatsmyname.app is an OSINT tool designed for enumerating usernames across a wide array of websites. 
