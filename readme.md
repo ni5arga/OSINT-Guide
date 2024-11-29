@@ -87,6 +87,8 @@ Find out more about email addresses, ownership, and their involvement in data br
 - [GHunt](https://github.com/mxrch/GHunt) - Investigate Google accounts.
 - [URLScan](https://urlscan.io/) - Analyze websites and identify associated resources.
 - [Shodan](https://www.shodan.io/) - Search for exposed devices on the internet.
+- [archive.ph](https://archive.ph/)
+- [web.archive.org](https://web.archive.org/)
 
 ---
 
