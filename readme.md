@@ -70,7 +70,10 @@ Find out more about email addresses, ownership, and their involvement in data br
 
 ---
 
+## Discord OSINT
 
+-  https://discord.id/
+-  https://discordlookup.com/user
 
 ## **Misc OSINT Tools**
 
