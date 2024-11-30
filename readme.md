@@ -1,4 +1,6 @@
 
+
+
 # OSINT Guide
 
 This repository is a collection of OSINT (Open Source Intelligence) tools, techniques, and tricks designed to help uncover publicly available information.
@@ -75,6 +77,22 @@ Find out more about email addresses, ownership, and their involvement in data br
 -  https://discord.id/
 -  https://discordlookup.com/user
 -  [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
+---
+## WhatsApp OSINT
+
+- [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter)
+- [TrackWapp - Online Monitor For WhatsApp](https://chromewebstore.google.com/detail/trackwapp-online-monitor/emkoflhmeegjlabodebpfbkeicjppebi)
+- ~~Google Dork Query to Find WhatsApp Group Links: `site:chat.whatsapp.com query`~~ (doesn't work anymore)
+
+---
+
+## Snapchat OSINT
+
+- [snapchat-map-scraper](https://github.com/nemec/snapchat-map-scraper)
+- [SnapIntel](https://github.com/Kr0wZ/SnapIntel)
+
+
+
 ---
 ## **Misc OSINT Tools**
 
