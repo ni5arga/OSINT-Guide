@@ -74,7 +74,8 @@ Find out more about email addresses, ownership, and their involvement in data br
 
 -  https://discord.id/
 -  https://discordlookup.com/user
-
+-  [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
+---
 ## **Misc OSINT Tools**
 
 - [whatsmyname](https://whatsmyname.app/) - Whatsmyname.app is an OSINT tool designed for enumerating usernames across a wide array of websites. 
